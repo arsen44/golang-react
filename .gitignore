@@ -3,5 +3,5 @@
 
 # Игнорировать model.go и model.py
 model.go
-model.py
+models.py
 git.txt
