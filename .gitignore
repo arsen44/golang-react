@@ -1,7 +1,0 @@
-# Ignore .env file
-.env
-
-# Игнорировать model.go и model.py
-model.go
-models.py
-git.txt
